@@ -62,26 +62,6 @@ From database-driven modules and admin panels to WordPress builds, REST APIs, pa
 
 ---
 
-### 📂 Selected work
-
-| Project | What it is | Built with |
-|---|---|---|
-| [**NextBillionaire**](https://nextbillionaire.in/) | Product platform with database-driven product management and a custom add-product workflow | CodeIgniter 3 · MySQL |
-| [**Poovar Backwater Boating**](https://poovarbackwaterboating.com/) | Tourism and boating site, frontend and backend | CodeIgniter 3 · HTML · CSS |
-| **Stock Market Prediction** | Price prediction with LSTM models on yfinance market data | Python · LSTM · Django |
-| **YouTube Sentiment Analysis** | Extracts and analyses sentiment from YouTube video content | Python · NLP |
-| **Athens Homestay** | Room management and login REST API endpoints | CodeIgniter 3 · REST APIs |
-| **Webzome Website Builder** | Web application development for a website builder | Python · Django |
-
----
-
-### 🤝 Let's work together
-
-I help with **web applications**, **REST APIs**, **WordPress builds** and **data-driven projects**.
-Have a project in mind? **[Let's make it worth building →](https://988711.xyz/#contact)**
-
----
-
 ### 📊 GitHub stats
 
 <p align="center">
